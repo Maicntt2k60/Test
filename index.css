@@ -154,7 +154,7 @@ body{
     background-image: -webkit-linear-gradient(left,#7c0fe2eb,#ea4534);
 }
 
-@media only screen and (max-width: 728px){
+@media  screen and (max-width: 505px){
     .content{
 
     }
