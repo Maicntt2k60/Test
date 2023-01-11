@@ -73,8 +73,8 @@ body{
     top:0;
 }
 .fg{
-    position: absolute;
-    left: 195px
+    position: relative;
+    left: 100px
 }
 /* end head */
 
